@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 5px;
+}
+
+.wrap {
+  padding: 10px;
+  border: 1px dashed #979797;
+  margin-bottom: 15px;
+}
+
+#facts {
+  padding: 8px;
+}
